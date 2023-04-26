@@ -13,7 +13,7 @@ final class ServiceProvider extends AbstractServiceProvider
     public function packageRegistered(): void
     {
         IconFamilyRegistry::push(
-            IconFamily::fromDirectory('majesticons', __DIR__ . '/../resources/svg'),
+            IconFamily::fromDirectory('majesticons', __DIR__.'/../resources/svg'),
         );
     }
 }
