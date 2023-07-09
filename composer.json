@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/blade-icons-majesticons",
+    "homepage": "https://github.com/faustbrian/blade-icons-majesticons",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
